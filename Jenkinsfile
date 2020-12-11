@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo 'Clarusway_Way to Reinvent Yourself'
-                sh 'echo Hello World'
+                sh 'echo Hello World...'
             }
         }
     }
